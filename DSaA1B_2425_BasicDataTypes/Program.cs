@@ -65,7 +65,7 @@ namespace DSaA1B_2425_BasicDataTypes
                 thing2 += thing[z];
             }
 
-            Console.WriteLine(thing2);
+            Console.WriteLine(thing2); //comment
 
             string thing4 = "";
             char[] thing3 = { 'a', 'b', 'c' };
